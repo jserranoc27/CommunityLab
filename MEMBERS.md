@@ -12,3 +12,4 @@
 * Luis Nuño Esteban luis.nunno@gmail.com
 * Victor Acedo Alvarez victoracedo.alvarez@gmail.com
 * Héctor Torres Emo h.torres.emo@gmail.com
+* Jorge Antonio Serrano Campos j.serranoc27@gmail.com
